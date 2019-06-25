@@ -8,7 +8,7 @@ This is the React Native application for the Avenir News Assignment.
 1. Make sure you have install npm on system.
 1. Clone this repo.
 1. Run npm install.
-1. react native link
+1. Run react native link
 
 ## Getting Started (iOS Simulator)
 
