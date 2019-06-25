@@ -5,7 +5,15 @@
 This is the React Native application for the Avenir News Assignment. 
 
 ## Prerequisites
-1. Make sure you have install npm on system.
+1. Make sure you have install npm on your system system.
+
+```Use below command to setup you system
+brew install node
+brew install watchman
+brew tap AdoptOpenJDK/openjdk
+brew cask install adoptopenjdk8
+```
+
 1. Clone this repo.
 1. Run npm install.
 1. Run react native link
