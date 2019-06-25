@@ -14,6 +14,8 @@ brew tap AdoptOpenJDK/openjdk
 brew cask install adoptopenjdk8
 ```
 
+## If system is already setup then execute below instructions
+
 1. Clone this repo.
 1. Run npm install.
 1. Run react native link
